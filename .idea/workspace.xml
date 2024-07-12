@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c2e34df-d7f4-4cdc-a1ce-4adffa52ca27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoJavaIONIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrada.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nombres.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/ProbarCopiaImagen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_01EjemploFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_02EjemploFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_03EjemploBufferedReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_04ProbarFileInputStreamPrintWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_05ProbarGrabarDatosBinarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_06ProbarLeerDatosBinarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_07ProbarEscribirObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebaio/_08ProbarLeerObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebanio/_01Propiedades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebanio/_02Atributos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebanio/_03Escritura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebanio/_04PEscrituraColeccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/organizacion/presentacion/pruebanio/_05LecturaColeccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paqueteIO.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2j72q7b1vffDj2v7Dhg9zn5T4MT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProbarFileInputStreamPrintWriter.executor": "Run",
+    "Application.TestEscritura.executor": "Run",
+    "Application._01EjemploFileWriter.executor": "Run",
+    "Application._01Escritura.executor": "Run",
+    "Application._01Propiedades.executor": "Run",
+    "Application._01PruebaEscritura.executor": "Run",
+    "Application._02Atributos.executor": "Run",
+    "Application._02EjemploFileReader.executor": "Run",
+    "Application._02PruebaEscritura.executor": "Run",
+    "Application._03EjemploBufferedReaderWriter.executor": "Run",
+    "Application._03LecturaColeccion.executor": "Run",
+    "Application._05ProbarGrabarDatosBinarios.executor": "Run",
+    "Application._06ProbarLeerDatosBinarios.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/ProyectoJavaIONIO/src/com/organizacion/modelo"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\ProyectoJavaIONIO\src\com\organizacion\modelo" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\ProyectoJavaIONIO\src\com\organizacion\presentacion\pruebaio" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\ProyectoJavaIONIO\src" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\ProyectoJavaIONIO\src\com\organizacion\presentacion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\ProyectoJavaIONIO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._06ProbarLeerDatosBinarios">
+    <configuration name="_02EjemploFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.pruebaio._02EjemploFileReader" />
+      <module name="ProyectoJavaIONIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.pruebaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03EjemploBufferedReaderWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.pruebaio._03EjemploBufferedReaderWriter" />
+      <module name="ProyectoJavaIONIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.pruebaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04ProbarFileInputStreamPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.pruebaio._04ProbarFileInputStreamPrintWriter" />
+      <module name="ProyectoJavaIONIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.pruebaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05ProbarGrabarDatosBinarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.pruebaio._05ProbarGrabarDatosBinarios" />
+      <module name="ProyectoJavaIONIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.pruebaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06ProbarLeerDatosBinarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.organizacion.presentacion.pruebaio._06ProbarLeerDatosBinarios" />
+      <module name="ProyectoJavaIONIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.organizacion.presentacion.pruebaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._06ProbarLeerDatosBinarios" />
+        <item itemvalue="Application._05ProbarGrabarDatosBinarios" />
+        <item itemvalue="Application._04ProbarFileInputStreamPrintWriter" />
+        <item itemvalue="Application._03EjemploBufferedReaderWriter" />
+        <item itemvalue="Application._02EjemploFileReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c2e34df-d7f4-4cdc-a1ce-4adffa52ca27" name="Changes" comment="" />
+      <created>1720723984828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720723984828</updated>
+    </task>
+    <servers />
+  </component>
+</project>
